@@ -45,28 +45,6 @@ Source Code :
 
 Features:
 ---------
-
-* Assembler Editor
--- Can load Programs written in other simulator
--- Auto-correct and auto-indent features
--- Supports assembler directives
--- Number parameters can be given in binary, decimal and hexadecimal format
--- Supports writing of comments
--- Supports labeling of instructions, even in macros
--- Has error checking facility
--- Syntax Highlighting
-
-* Disassembler Editor
--- Supports loading of Intel specific hex file format
--- It can successfully reverse trace the original program from the assembly code, in most of the cases
--- Syntax Highlighting and Auto Spacing
-
-* Assembler Workspace
--- Contains the Address field, Label, Mnemonics, Hex-code, Mnemonic Size, M-Cycles and T-states
--- Static Timing diagram of all instruction sets are supported
--- Dynamic Timing diagram during step by step simulation
--- It has error checking facility also
-
 * Memory Editor
 -- Can directly update data in a specified memory location
 -- It has 3 types of interface, user can choose from it according to his need.
